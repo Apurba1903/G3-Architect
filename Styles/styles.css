@@ -14,7 +14,7 @@
     border: 0;
 }
 .text-light-grey{
-    color: #727272
+    color: #727272;
 }
 * {
     font-family: 'Work Sans', sans-serif;
@@ -121,6 +121,31 @@ main{
     font-size: 0.8rem;
     font-weight: 400;
 }
+
+
+/* Facts Styles */
+.facts{
+    padding-left: 12.5rem;
+}
+.facts-title{
+    color: #131313;
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.facts-description{
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 /* Responsive Media Queries */
